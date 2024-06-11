@@ -42,6 +42,7 @@ ul.nobullet li a:hover{
    border: 5px black;
    background-image: url(bg5.png) ;
    position:static;
+   width:1900px;
 }
 .content{
    margin-left: 200px;
