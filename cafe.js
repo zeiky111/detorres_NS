@@ -37,8 +37,7 @@ function sago(){
     else{
     if(size=='2'){
         alert("60 pesos");
-        alert("bilihin mo na");
-        alert("gipit na ko");
+       
     }
     else{
         if(size=='3'){
