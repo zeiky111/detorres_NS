@@ -316,7 +316,7 @@ function halo(){
     }
 }
 }
-function halO(){
+function turon(){
     alert("Please enter the number of your choice:>")
     let size = prompt("What type of halo-halo do you want?,((1) Classic, (2) Halo-Halo Speacial, (3) Halo-Halo Blanca)");
     if(size=='1'){
